@@ -1,0 +1,19 @@
+caffe中文数据集下载地址：
+https://github.com/senlinuc/caffe_ocr
+
+CRNN模型训练：train.py
+
+文本图像识别：infer.py
+
+模型验证：evaluate.py
+
+触发集：gauss
+
+触发集水印嵌入：main.py，注意数据集和触发集的加载位置修改
+
+攻击：1）微调：ft.py 2)篡改：lsbr.py 3)视觉评价：metrics.py
+
+
+
+
+
